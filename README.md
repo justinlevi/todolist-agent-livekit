@@ -31,7 +31,3 @@ INITIAL_GREETING="XXX"
 
 - https://github.com/livekit/agents
   https://docs.livekit.io/agents/voice-agent/voice-pipeline/
-
-## Fly io Dev
-
-- https://fly.io/apps/livekit-ai-answering-service
